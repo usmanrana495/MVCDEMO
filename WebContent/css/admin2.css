@@ -1,0 +1,220 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+.top_black1{
+	width:1200px;
+	height:40px;
+	float:left;
+	margin:0px 70px 0 70px;
+	background:#313131;
+	box-shadow: 5px 5px 5px #666666;
+	
+}
+.top_admin{
+	width:200px;
+	height:25px;
+
+	padding-left:5px;
+	margin-left:20px;
+	margin-top:15px;
+	float:left;
+	font-size:20px;
+	
+	font-style:oblique;
+	color:#F00;
+	}
+
+
+.top_signup1{
+	width:75px;
+	height:27px;
+	float:left;
+	padding-left:5px;
+	padding-top:5px;
+	font-size:24px;
+	margin:5px 0 0 15px;
+	font-style:oblique;
+	color:#FFF;
+	border-left:4px double #666;
+	border-right:4px double #666;
+}
+
+.one{
+	
+	text-decoration:none;
+	color:#FFF;
+}
+.one:hover{
+	color:#F00;
+	text-decoration:none;
+}
+.one:visted{
+	color:#FFF;
+}
+.top_signup1:hover{
+	border-radius:10px;
+}
+
+.admin2_back{
+	margin-top:180px;
+	margin-bottom:80px;
+	height:1000px;
+	width:1200px;
+	float:;
+
+}
+
+.admin2_profile{
+	margin:0 10px 0 10px ;
+	background:#FFF;
+	height:300px;
+	border:1px solid #CCC;
+	width:470px;
+	border-radius:10px;
+	float:right;
+}
+
+.admin_header{
+	
+	width:440px;
+	height:30px;
+	float:right;
+	color:#F00;
+	margin-right:10px;
+	text-shadow:0 1px 1px #CCC;  
+	font-size:28px;
+	border:1px solid #EEE;
+	border-radius:10px;
+	padding:0px 0 0 30px;
+		
+		  /* Safari 5.1, Chrome 10+  #b22222,*/
+ 		 background: -webkit-linear-gradient(top, #CCC, white);
+
+  /* Firefox 3.6+ */
+		  background: -moz-linear-gradient(top,#CCC, white);
+
+  /* IE 10 */
+ 			 background: -ms-linear-gradient(top, #CCC, white);
+
+  /* Opera 11.10+ */
+  			background: -o-linear-gradient(top, #CCC, white);
+	
+}
+
+
+.admin2_profile_gray{
+	margin:10px;
+	border-radius:10px;
+	background:#EEE;
+	border:1px solid #CCC;
+	height:280px;
+	width:450px;
+	border-radius:10px;
+	float:right;
+}
+.admin2_prifile_pic{
+	background:#FFF;
+	width:200px;
+	margin:10px;
+	height:200px;
+	float:left;
+	border-radius:10px;
+
+}
+.admin2_name{
+	margin-top:20px;
+	width:200px;
+	height:auto;
+	float:left;
+	font-size:20px;
+	text-decoration:underline;
+}
+.admin2_email{
+	margin-top:5px;
+	width:200px;
+	height:auto;
+	float:left;
+	font-size:16px;
+}
+.admin2_phone{
+	
+	margin-top:5px;
+	width:200px;
+	height:20px;
+	float:left;
+	font-size:18px;
+}
+.admin_one{
+	
+	text-decoration:none;
+	color:#F00;
+}
+.admin_one:hover{
+	color:#00F;
+	text-decoration:underline;
+}
+.admin_one:visted{
+	color:#FFF;
+}
+.mid_area{
+	width:420px;
+	height:550px;
+	float:left;	
+	
+}
+.admin_table{
+	
+	width:500px;
+	height:470px;
+	float:left;
+	margin-top:20px;
+
+}
+.admin_header_home{
+	
+	width:255px;
+	height:30px;
+	float:left;
+	color:#F00;
+	text-shadow:0 1px 1px #CCC;  
+	font-size:28px;
+	border:1px solid #EEE;
+	border-radius:10px;
+	padding:0px 0 0 20px;
+		
+		  /* Safari 5.1, Chrome 10+  #b22222,*/
+ 		 background: -webkit-linear-gradient(top, #CCC, white);
+
+  /* Firefox 3.6+ */
+		  background: -moz-linear-gradient(top,#CCC, white);
+
+  /* IE 10 */
+ 			 background: -ms-linear-gradient(top, #CCC, white);
+
+  /* Opera 11.10+ */
+  			background: -o-linear-gradient(top, #CCC, white);
+	
+}
+.admin_table_white{
+	
+	width:275px;
+	height:420px;
+	float:left;	background:#FFF;
+	border-radius:15px;
+	border:1px solid #CCC;
+}
+
+.admin_table_gray{
+	
+	width:250px;
+	height:400px;
+	float:left;
+	margin:10px;
+	background:#EEE;
+	border:1px solid #CCC;
+}
+.table_text{
+	text-align:center;
+}
+

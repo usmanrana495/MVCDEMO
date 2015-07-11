@@ -1,0 +1,169 @@
+.spec_back{
+	width:700px;
+	height:auto;
+	float:left;
+	margin-left:50px;
+	margin-top:100px;
+	margin-bottom:10px;
+	
+}
+.spec_one:visited{
+	color:blue;
+}
+.spec_one:hover{
+	text-decoration:underline;
+}
+
+.spec_emoty{
+		width:790px;
+	height:50px;
+	float:left;
+
+}
+.spec_cata_name{
+	
+	width:760px;
+	height:60px;
+	float:left;
+	font-size:42px;
+	margin:5px;
+	font-style:oblique;
+	padding-left:10px;
+	text-shadow:2px 0px 3px #000000;
+
+    
+}
+.spec_add_body{
+	border:4px double #CCC;
+	width:800px;
+	height:auto;
+	float:left;
+    margin:20px 0 0 50px;
+	border-radius:10px;
+	background:#FFF;	
+
+}
+.spec_slider{
+	width:790px;
+	height:25px;
+	float:left;
+	background:#0FF;
+	border-radius:10px;
+	font-size:24px;
+	padding:5px;
+	color:#F00;
+	  /* Safari 5.1, Chrome 10+  #b22222,*/
+ 		 background: -webkit-linear-gradient(top, #CCC, white);
+
+  /* Firefox 3.6+ */
+		  background: -moz-linear-gradient(top,#CCC, white);
+
+  /* IE 10 */
+ 			 background: -ms-linear-gradient(top, #CCC, white);
+
+  /* Opera 11.10+ */
+  			background: -o-linear-gradient(top, #CCC, white);
+	
+}
+.spec_add_show{
+	width:800px;
+	height:150px;
+	float:left;
+	margin-top:10px;
+	border:1px solid #CCC;
+	border-radius:10px;
+}
+.spec_add_show:hover{
+	box-shadow:10px 10px 10px #CCC;
+	background:#EEE;
+	
+	
+}
+.spec_add_show_pic{
+	width:170px;
+	height:150px;
+	float:left;
+
+
+}
+
+.spec_add_show_title{
+	width:320px;
+	height:130px;
+	float:left;
+	margin:10px 0 0 10px;
+	border-left:4px double #CCC; 
+}
+
+.spec_add_title_name{
+	width:300px;
+	height:50px;
+	float:left;
+	margin:10px;
+	font-size:28px;
+	border-bottom:3px double #CCC;
+}
+
+.spec_add_title_des{
+	width:250px;
+	height:15px;
+	float:left;
+	margin-left:10px;
+	font-size:20px;
+	color:#999;
+
+}
+.spec_add_title_time{
+	width:250px;
+	height:20px;
+	float:left;
+	margin-top:20px;
+	margin-left:10px;
+	font-size:20px;
+	color:#999;
+}
+
+.spec_price
+{
+	box-shadow: 1px 1px 5px #B7B7B7;
+	height:23px;
+	background:#ffff99;
+	float:right;
+	margin-right:20px;
+	margin-top:20px;
+	padding-top:7px;
+	font-weight:bold;
+	padding-right:5px;
+	padding-left:5px;
+	border-radius: 0 4px 4px 0;
+	
+}
+.spec_price_tag{
+	width:40px;
+	height:25px;
+	float:right;
+	margin-top:20px;
+	}
+	
+	
+	.about_website_Pic{
+	
+	width:40px;
+	height:40px;
+	float:left;
+	margin-right:10px;
+	margin-top:10px;	
+	
+}
+
+.about_website_text{
+	
+	width:680px;
+	height:26px;
+	float:left;
+	padding:7px;
+	margin-right:10px;
+	text-decoration:underline;
+	color:#F00;	
+	
+}

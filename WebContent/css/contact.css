@@ -1,0 +1,111 @@
+.contact_back{
+	width:450px;
+	height:500px;
+	float:left;
+	border:4px double #EEE;
+	border-radius:10px;
+	margin:90px 50px 90px 370px;
+}
+
+
+.contact_header{
+	
+	width:420px;
+	height:30px;
+	float:left;
+	color:#F00;
+	text-shadow:0 1px 1px #CCC;  
+	font-size:28px;
+	border:1px solid #EEE;
+	border-radius:10px;
+	padding:0px 0 0 30px;
+		
+		  /* Safari 5.1, Chrome 10+  #b22222,*/
+ 		 background: -webkit-linear-gradient(top, #CCC, white);
+
+  /* Firefox 3.6+ */
+		  background: -moz-linear-gradient(top,#CCC, white);
+
+  /* IE 10 */
+ 			 background: -ms-linear-gradient(top, #CCC, white);
+
+  /* Opera 11.10+ */
+  			background: -o-linear-gradient(top, #CCC, white);
+	
+}
+
+
+.larg_display_con{
+	width:450px;
+	height:470px;
+	float:left;
+	background:#FFF;
+	border-radius:10px;
+	
+	border-top:1px solid #CCC;	
+	border-left:1px solid #CCC;
+	border-bottom:1px solid #CCC;
+	border-right:1px solid #CCC;	
+}
+
+.larg_display_con_back_clr{
+	width:430px;
+	height:450px;
+	float:left;
+	margin:10px;
+	border-radius:10px;
+	background:#EEE;
+	border-top:1px solid #CCC;	
+	border-left:1px solid #CCC;
+	border-bottom:1px solid #CCC;
+	border-right:1px solid #CCC;	
+}
+
+.larg_con_header{
+	width:400px;
+	height:45px;
+	float:left;
+	padding:5px;
+	margin-top:10px;
+	margin-bottom:20px;
+	
+}
+
+.larg_con_header_pic{
+	width:22px;
+	height:22px;
+	float:left;
+	padding:5px;
+	margin-right:5px;
+	margin-top:5px;
+	
+}
+.larg_text{
+	width:370px;
+	height:30px;
+	border-radius:5px;
+	border:1px solid #CCC;
+	margin-left:50px;
+	float:left;
+}
+
+.larg_text_des{
+	margin-top:5px;
+	width:370px;
+	height:80px;
+	margin-left:50px;
+	float:left;
+}
+.larg_butn_submit{
+	background:url(../logo/btn-orange.gif);
+	border:1px solid #BE3101;
+	padding: 5px 10px;
+	margin:40px  0 0 280px;
+	
+}
+.error_contact
+{
+	font-size:24px;
+	color:#6FDD00;
+	
+}

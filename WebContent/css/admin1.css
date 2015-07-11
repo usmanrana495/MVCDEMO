@@ -1,0 +1,103 @@
+.search_back{
+	background:#FFF;
+	width:400px;
+	height:300px;
+	border-radius:10px;
+	margin:300px  0 200px 400px ;
+
+}
+.search_header{
+	
+	width:370px;
+	height:20px;
+	color:#F00;
+	text-shadow:0 1px 1px #CCC;  
+	font-size:18px;
+	border:1px solid #EEE;
+	border-radius:10px;
+	padding:0 0 0 30px;
+		
+		  /* Safari 5.1, Chrome 10+  #b22222,*/
+ 		 background: -webkit-linear-gradient(top, #CCC, white);
+
+  /* Firefox 3.6+ */
+		  background: -moz-linear-gradient(top,#CCC, white);
+
+  /* IE 10 */
+ 			 background: -ms-linear-gradient(top, #CCC, white);
+
+  /* Opera 11.10+ */
+  			background: -o-linear-gradient(top, #CCC, white);
+
+}
+
+.search_back_gray{
+	width:370px;
+	height:250px;
+	margin:12px;
+	background:#EEE;
+	border-radius:10px;
+}
+.search_back_gray_icon{
+	width:50px;
+	height:50px;
+	float:left;
+	margin:10px  0 5px 20px;	
+}
+
+.search_back_gray_text{
+	width:200px;
+	height:5px;
+	float:left;
+	margin:20px 50px 5px 0px;
+	padding:15px;	
+}
+
+.search_abc{
+	width:300px;
+	height:160px;
+	float:left;
+	margin:10px  0 0 50px;
+	}
+.search_abc_textfield{
+	width:190px;
+	height:30px;
+	margin:10px 5px 0 50px;
+	font-size:18px;
+	border-radius:5px;
+	border-top:1px solid black;
+	border-left:1px solid black;
+	}
+	
+.search_count_textfield{
+	width:190px;
+	height:30px;
+	font-size:20px;
+	margin:10px 10px 0 50px; 
+	border-radius:5px;
+    border-top:1px solid black;
+	border-left:1px solid black;
+	
+	}
+.search_butn_submit{
+	background:url(../logo/btn-orange.gif);
+	
+	border-top:1px solid #BE3101;
+	border-left:1px solid #BE3101;
+	
+	padding: 5px 10px;
+	margin:20px  0 0 120px;
+	
+}
+.search_error
+{
+	width:280px;
+	height:38px;
+	color:#F00;
+	float:left;
+	margin-top:5px;
+	border-radius:10px;
+	padding:0 0 0 20px; 
+	background:#FDD7E4;
+	
+}

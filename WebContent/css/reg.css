@@ -1,0 +1,129 @@
+
+.reg_1_back{
+	width:1340px;
+	height:auto;
+	margin:5px;
+}
+
+.reg_1_white{
+	width:650px;
+	height:600px;
+	margin:200px 0 50px 270px;
+	background:#FFF;
+	border:1px solid #CCC;
+	border-radius:10px;
+	
+}
+.reg_top_header{
+    width:638px;
+	height:30px;
+	float:left;
+	float:left;
+	padding-left:10px;;
+	padding-top:1%;
+	font-size:24px;
+	color:#FFF;
+	text-shadow:2px 2px 2px #000000;
+	border:1px double #999999;
+	border-radius:10px;
+	
+		  /* Safari 5.1, Chrome 10+ */
+ 		 background: -webkit-linear-gradient(top, #b22222, white);
+
+  /* Firefox 3.6+ */
+		  background: -moz-linear-gradient(top, #b22222, white);
+
+  /* IE 10 */
+ 			 background: -ms-linear-gradient(top, #b22222, white);
+
+  /* Opera 11.10+ */
+  			background: -o-linear-gradient(top, #b22222, white);
+}	
+
+.reg_step1{
+	margin-top:10px;
+	width:100%;
+	height:30px;
+	float:left;
+	
+}
+
+.reg_1_rule{
+	width:600px;
+	margin-top:5px;
+	margin-left:25px;
+	height:300px;
+	float:left;
+	padding-left:5px;
+	border-bottom:2px dashed #CCC;
+	
+}
+.reg_quick{
+	width:500px;
+	padding-top:20px;
+	height:20px;
+	padding-left:10px;
+	font-size:28px;
+	font-weight:500;
+	font-style:oblique;
+	float:left;
+	text-shadow:2px 2px 2px #FF0000;
+}
+.reg_1_rule_writen{
+	width:550px;
+	height:220px;
+	float:left;
+	line-height:35px;
+	margin:20px 0  0  30px;  
+	font-size:24px;
+}
+.reg_1_select_cata{
+	width:500px;
+	height:200px;
+	float:left;
+	margin:20px  0 0 80px;
+
+}
+.reg_1_select_list{
+     width:380px;
+	height:50px;
+	float:left;
+	padding:10px 10px 10px 10px;
+	margin:10px  0 0 50px;
+	
+}
+.reg_1_select_list_item{
+	width:200px;
+	height:30px;
+	font-size:20px;
+	border:1px solid #CCC;
+	border-radius:5px;
+	background:#EEE;
+}
+.reg_1_butoon{
+	 width:200px;
+	 height:50px;
+	 float:left;
+	 margin:10px 10px 10px 180px ;
+}
+.reg_1_button_inner{
+	width:200px;
+	 height:50px;
+	 font-size:24px;
+	border-radius:10px;
+	border-right:2px solid #CCC;
+	border-bottom:2px solid #CCC;
+	box-shadow:2px 2px 2px #000000; 	
+		  /* Safari 5.1, Chrome 10+ */
+ 		 background: -webkit-linear-gradient(top, #b22222, white);
+
+  /* Firefox 3.6+ */
+		  background: -moz-linear-gradient(top, #b22222, white);
+
+  /* IE 10 */
+ 			 background: -ms-linear-gradient(top, #b22222, white);
+
+  /* Opera 11.10+ */
+  			background: -o-linear-gradient(top, #b22222, white);
+	
+}
